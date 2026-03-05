@@ -1,7 +1,7 @@
 name: PotionStacker
 main: com.example.potionstacker.PotionStackerPlus
 version: 1.0.1
-api-version: 1.21
+api-version: 1.16
 author: Cha0sBEpic
 website: https://github.com/Cha0sBEpic/PotionStacker
 
